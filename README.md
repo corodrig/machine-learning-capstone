@@ -7,3 +7,5 @@ Caltech 256 image dataset.
 This repo contains a simplified and trimmed down version of tensorflow's
 [android image classification example](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
 in the `android/` directory.
+
+Watch it in action at https://youtu.be/7hNtIgq0-10
